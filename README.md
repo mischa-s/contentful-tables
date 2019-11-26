@@ -1,14 +1,14 @@
-# Contentful Editable Table UI Extension
+# Contentful Tables
 
-An editable table to handle tabular data as a [Contentful UI Extension](https://www.contentful.com/developers/docs/concepts/uiextensions/).
+An ui-extension to add an editable table to handle tabular data as a [Contentful UI Extension](https://www.contentful.com/developers/docs/concepts/uiextensions/).
 
 ![figure](https://raw.githubusercontent.com/contentful-developer-relations/ui-editable-table/master/demo.gif "Editable table as Contentful UI Extension demo")
 
 ## Installation
 
 ```sh
-git clone git@github.com:contentful-labs/ui-editable-table.git
-cd ui-editable-table
+git clone https://github.com/AnalogMemory/contentful-tables.git
+cd contentful-tables
 npm install
 ```
 

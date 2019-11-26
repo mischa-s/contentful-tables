@@ -1,7 +1,7 @@
 {
-  "name": "cf-contentful-ui-country-select",
+  "name": "contentful-tables",
   "version": "1.0.0",
-  "description": "Contentful UI extension to easily select countries",
+  "description": "A Contentful UI-Extension to add editable tabular data",
   "main": "index.js",
   "engines": {
     "node": ">=7.6"
@@ -12,17 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanjudis/contentful-ui-country-select.git"
+    "url": "https://github.com/AnalogMemory/contentful-tables.git"
   },
   "keywords": [
-    "contentful"
+    "contentful",
+    "extension",
+    "tables"
   ],
-  "author": "stefan judis <stefanjudis@gmail.com>",
+  "author": "Alex M<alex@analogmemory.xyz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefanjudis/contentful-ui-country-select/issues"
+    "url": "https://github.com/AnalogMemory/contentful-tables/issues"
   },
-  "homepage": "https://github.com/stefanjudis/contentful-ui-country-select#readme",
+  "homepage": "https://github.com/AnalogMemory/contentful-tables#readme",
   "devDependencies": {
     "contentful-extension-cli": "^2.0.0"
   }
