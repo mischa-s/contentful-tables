@@ -2,7 +2,17 @@
 
 An ui-extension to add an editable table to handle tabular data as a [Contentful UI Extension](https://www.contentful.com/developers/docs/concepts/uiextensions/).
 
-![figure](https://raw.githubusercontent.com/contentful-developer-relations/ui-editable-table/master/demo.gif "Editable table as Contentful UI Extension demo")
+#### Setup in Content Model
+
+Add JSON Object field  
+![figure](https://github.com/AnalogMemory/contentful-tables/blob/master/images/setup1.png "Add JSON Object field")
+
+Configure appearance to use **Contentful Tables**  
+![figure](https://github.com/AnalogMemory/contentful-tables/blob/master/images/setup2.png "Configure appearance")
+
+#### Editing Table
+
+![figure](https://github.com/AnalogMemory/contentful-tables/blob/master/images/demo.gif "Editing the table")
 
 ## Installation
 
